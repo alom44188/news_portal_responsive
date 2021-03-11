@@ -1,0 +1,209 @@
+*{
+    margin: 0px;
+}
+
+.searchbar{
+    margin-top: 30px;
+}
+
+.logoimg{
+    height: 65px;
+    margin-left: 180px;
+    margin-top: 20px;
+    
+}
+.header{
+    border-bottom: 2px solid #eae8e8;
+    padding-bottom: 25px;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
+
+.header i{
+    margin-top: 50px;
+    margin-left: 272px;
+    font-size: 29px;
+    color: red;
+    cursor: pointer;
+}
+.menubar{
+    border-bottom: 2px solid #eae8e8;
+    background-color: white;
+    position: sticky;
+    top: 112px;
+}
+.menubar ul{
+    margin-bottom: 8px;
+}
+.menubar ul li{
+
+    display: inline-block;
+    padding: 8px 10px 0px;
+}
+.menubar ul li a{
+    text-decoration: none;
+    color: #424141;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menubar ul li a:hover{
+    color: rgb(58, 58, 134);
+}
+.add{
+    border-bottom: 2px solid #eae8e8;
+    padding-bottom: 15px;
+}
+
+.pst1 a{
+    text-decoration: none;
+    color: black;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pst1 h1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.pst1 p{
+    font-size: 17px;
+    line-height: 1;
+    font-family: 'Times New Roman', Times, serif;
+    color: #676666;
+}
+.content .row .pst2{
+    border-right:  1px solid #eae8e8 ;
+}
+.content .row .pst2 img{
+    width: 100%;
+}
+.content .row .pst2 p{
+    font-size: 15px;
+    line-height: 1;
+    font-family: 'Times New Roman', Times, serif;
+    color: #676666;
+    text-align: justify;
+    width: 100%;
+}
+.content .row .pst3{
+    border-right:  1px solid #eae8e8 ;
+}
+.content .row .pst3 a{
+    text-decoration: none;
+}
+.content .row .pst3 h3{
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content .row .pst3 p{
+    font-size: 15px;
+    line-height: 1;
+    font-family: 'Times New Roman', Times, serif;
+    color: #676666;
+    text-align: justify;
+    width: 100%;
+}
+.content .post1{
+    padding-bottom: 15px;
+    border-bottom: 1px solid gainsboro; 
+}
+
+.content .post2 .pst1{
+    border-right:  1px solid #eae8e8 ;
+}
+.content .post2{
+    padding-bottom: 15px;
+    border-bottom: 1px solid gainsboro; 
+}
+.content .post3 .pst1{
+    display: flex;
+    border-right:  1px solid #eae8e8 ;
+}
+.content .post3 .pst1 img{
+    margin-right: 10px;
+}
+.content .post3 .pst1 h1{
+    font-size: 13px;
+    text-align: justify;
+}
+.content .post4{
+    padding-top: 15px;
+    border-top: 1px solid gainsboro;
+}
+
+.sider .sideimg{
+    margin-top: 10px;
+    border-bottom: 1px solid gainsboro; 
+}
+.sider .ps2 a{
+    text-decoration: none;
+    color: black;
+}
+.sider .ps2 h2{
+    font-size: 20px;
+    text-align: justify;
+    width: 75%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sider .ps2{
+    margin-top: 10px;
+    border-bottom: 1px solid gainsboro; 
+}
+.sider .ps3 a{ 
+ text-decoration: none;
+ display: flex;
+}
+.sider .ps3 h2{
+    color: black;
+    font-size: 20px;
+}
+.sider .ps3{
+    margin-top: 10px;
+    border-bottom: 1px solid gainsboro; 
+}
+.add2{
+    padding: 10px 10px;
+    border-top: 1px solid gainsboro;
+    border-bottom: 1px solid black;
+}
+.content2 a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+.content2 i{
+    color: red;
+}
+.International h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.International p{
+    color: #555555;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.International{
+    border-right: 1px solid gainsboro;
+}
+.intside{
+    border-bottom: 1px solid gainsboro;
+}
+
+.intside h4{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.intside p{
+    color: #676666;
+    font-family: 'Times New Roman', Times, serif;
+}
+.intside .row{
+    border-bottom: 1px solid gainsboro;
+}
